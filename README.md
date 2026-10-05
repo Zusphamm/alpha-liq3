@@ -21,10 +21,11 @@ Short illiquid coins (high amihud, high kyle_lambda) and long liquid ones. Explo
 
 | Factor | PnL | Days | $/Day |
 |--------|-----|------|-------|
-| `amihud|chg20|+` | $+0.00 | 0 | $+0.000 |
-| `kyle|lambda|z60|+` | $+0.00 | 0 | $+0.000 |
-| `rvol|ratio|lvl|-` | $+0.00 | 0 | $+0.000 |
-| **Total** | **$+0.00** | | |
+| `amihud|chg20|+` | $+11.03 | 38 | $+0.290 |
+| `kyle_lambda|z60|+` | $+5.58 | 28 | $+0.199 |
+| `rvol_ratio|lvl|-` | $+6.24 | 38 | $+0.164 |
+| **Total** | **$+22.84** | | |
+
 
 ## Factors (3)
 
